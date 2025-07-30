@@ -5,7 +5,7 @@ A modern, responsive, and interactive personal portfolio website designed to sho
 
 ## ✨ Live Preview
 
-🔗 [Visit My Portfolio](https://your-deployment-url.com)  
+🔗 [Visit My Portfolio](https://portfolio-website-vidd.onrender.com)  
 📄 [View Resume](https://drive.google.com/file/d/1F5AwWiahWrLfxxEtGm6LRTC7dk6tazvV/view?usp=drive_link)
 
 ---
